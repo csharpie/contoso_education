@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Student" max_length="40" name="x_909466_contoso_0_student" sizeclass="2" type="collection">
+        <element label="Birthday" mandatory="true" max_length="40" name="birthday" type="glide_date"/>
+        <element label="Contoso University ID" mandatory="true" max_length="40" name="contoso_university_id" type="string"/>
+        <element label="First Name" mandatory="true" max_length="40" name="first_name" type="string"/>
+        <element choice="3" label="Gender" mandatory="true" max_length="40" name="gender" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Prefer not to say" sequence="0" value="prefer_not_to_say"/>
+                <element inactive_on_update="false" label="Female" sequence="1" value="female"/>
+                <element inactive_on_update="false" label="Male" sequence="2" value="male"/>
+                <element inactive_on_update="false" label="Non-Binary" sequence="3" value="non_binary"/>
+                <element inactive_on_update="false" label="Gender Non-Conforming" sequence="4" value="gender_non_conforming"/>
+            </choice>
+        </element>
+        <element label="Graduation Year" mandatory="true" max_length="40" name="graduation_year" type="integer"/>
+        <element label="Last Name" mandatory="true" max_length="40" name="last_name" type="string"/>
+        <element display="true" label="Middle Name" max_length="40" name="middle_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+    </element>
+</database>

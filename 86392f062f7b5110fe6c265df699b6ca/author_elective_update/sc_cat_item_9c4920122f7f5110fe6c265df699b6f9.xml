@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item">
+    <sc_cat_item action="DELETE">
+        <access_type>restricted</access_type>
+        <active>true</active>
+        <availability>on_desktop</availability>
+        <billable>false</billable>
+        <category/>
+        <checked_out/>
+        <cost>0</cost>
+        <custom_cart/>
+        <delivery_plan/>
+        <delivery_plan_script/>
+        <delivery_time>1970-01-03 00:00:00</delivery_time>
+        <description/>
+        <display_price_property>non_zero</display_price_property>
+        <entitlement_script/>
+        <flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow>
+        <fulfillment_automation_level>unspecified</fulfillment_automation_level>
+        <group/>
+        <hide_sp>false</hide_sp>
+        <icon/>
+        <ignore_price>true</ignore_price>
+        <image/>
+        <location/>
+        <mandatory_attachment>false</mandatory_attachment>
+        <meta/>
+        <mobile_hide_price>false</mobile_hide_price>
+        <mobile_picture/>
+        <mobile_picture_type>use_desktop_picture</mobile_picture_type>
+        <model/>
+        <name>Register student CI</name>
+        <no_attachment_v2>true</no_attachment_v2>
+        <no_cart>false</no_cart>
+        <no_cart_v2>true</no_cart_v2>
+        <no_delivery_time_v2>true</no_delivery_time_v2>
+        <no_order>false</no_order>
+        <no_order_now>false</no_order_now>
+        <no_proceed_checkout>false</no_proceed_checkout>
+        <no_quantity>false</no_quantity>
+        <no_quantity_v2>true</no_quantity_v2>
+        <no_search>false</no_search>
+        <no_wishlist_v2>true</no_wishlist_v2>
+        <omit_price>false</omit_price>
+        <order>0</order>
+        <ordered_item_link/>
+        <owner display_value="Brad Steinberg">e2b727c22f7b5110fe6c265df699b667</owner>
+        <picture/>
+        <preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=9c4920122f7f5110fe6c265df699b6f9&amp;sysparm_preview=true", "summary");</preview>
+        <price>0</price>
+        <published_ref/>
+        <recurring_frequency/>
+        <request_method>submit</request_method>
+        <roles/>
+        <sc_catalogs/>
+        <sc_ic_item_staging/>
+        <sc_ic_version/>
+        <sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template>
+        <short_description>Registers a new student</short_description>
+        <show_variable_help_on_load>false</show_variable_help_on_load>
+        <start_closed>false</start_closed>
+        <state/>
+        <sys_class_name>sc_cat_item</sys_class_name>
+        <sys_created_by>brad</sys_created_by>
+        <sys_created_on>2022-12-18 04:36:15</sys_created_on>
+        <sys_id>9c4920122f7f5110fe6c265df699b6f9</sys_id>
+        <sys_mod_count>7</sys_mod_count>
+        <sys_name>Register student CI</sys_name>
+        <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+        <sys_update_name>sc_cat_item_9c4920122f7f5110fe6c265df699b6f9</sys_update_name>
+        <sys_updated_by>brad</sys_updated_by>
+        <sys_updated_on>2022-12-18 20:05:05</sys_updated_on>
+        <taxonomy_topic/>
+        <template/>
+        <template_manager_roles/>
+        <type>item</type>
+        <use_sc_layout>true</use_sc_layout>
+        <vendor/>
+        <visible_bundle>true</visible_bundle>
+        <visible_guide>true</visible_guide>
+        <visible_standalone>true</visible_standalone>
+        <workflow/>
+    </sc_cat_item>
+    <sys_translated_text action="DELETE" query="documentkey=9c4920122f7f5110fe6c265df699b6f9"/>
+    <fx_price action="DELETE" query="id=9c4920122f7f5110fe6c265df699b6f9"/>
+    <fx_price action="DELETE">
+        <amount>0</amount>
+        <currency display_value="USD">USD</currency>
+        <field>price</field>
+        <id>9c4920122f7f5110fe6c265df699b6f9</id>
+        <parent/>
+        <reference_amount>0</reference_amount>
+        <reference_currency display_value="USD">USD</reference_currency>
+        <sys_created_by>brad</sys_created_by>
+        <sys_created_on>2022-12-18 04:36:15</sys_created_on>
+        <sys_id>5c4920122f7f5110fe6c265df699b6fa</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_updated_by>brad</sys_updated_by>
+        <sys_updated_on>2022-12-18 04:36:15</sys_updated_on>
+        <table>sc_cat_item</table>
+        <type>calculated</type>
+    </fx_price>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</application>
+        <file_path/>
+        <instance_id>6df99e42db6937448aea21c405961932</instance_id>
+        <instance_name>dev86298</instance_name>
+        <name>sc_cat_item_9c4920122f7f5110fe6c265df699b6f9</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item"><sc_cat_item action="INSERT_OR_UPDATE"><access_type>restricted</access_type><active>true</active><availability>on_desktop</availability><billable>false</billable><category/><checked_out/><cost>0</cost><custom_cart/><delivery_plan/><delivery_plan_script/><delivery_time>1970-01-03 00:00:00</delivery_time><description/><display_price_property>non_zero</display_price_property><entitlement_script/><flow_designer_flow display_value="Service Catalog item request">30f3d26187e92300e0ef0cf888cb0b91</flow_designer_flow><fulfillment_automation_level>unspecified</fulfillment_automation_level><group/><hide_sp>false</hide_sp><icon/><ignore_price>true</ignore_price><image/><location/><mandatory_attachment>false</mandatory_attachment><meta/><mobile_hide_price>false</mobile_hide_price><mobile_picture/><mobile_picture_type>use_desktop_picture</mobile_picture_type><model/><name>Register student CI</name><no_attachment_v2>true</no_attachment_v2><no_cart>false</no_cart><no_cart_v2>true</no_cart_v2><no_delivery_time_v2>true</no_delivery_time_v2><no_order>false</no_order><no_order_now>false</no_order_now><no_proceed_checkout>false</no_proceed_checkout><no_quantity>false</no_quantity><no_quantity_v2>true</no_quantity_v2><no_search>false</no_search><no_wishlist_v2>true</no_wishlist_v2><omit_price>false</omit_price><order>0</order><ordered_item_link/><owner display_value="Brad Steinberg">e2b727c22f7b5110fe6c265df699b667</owner><picture/><preview>JavaScript: popupOpenStandard("com.glideapp.servicecatalog_cat_item_view.do?v=1&amp;sysparm_id=9c4920122f7f5110fe6c265df699b6f9&amp;sysparm_preview=true", "summary");</preview><price>0</price><published_ref/><recurring_frequency/><request_method>submit</request_method><roles/><sc_catalogs/><sc_ic_item_staging/><sc_ic_version/><sc_template display_value="AES Standard items in Service Catalog">03302dd377023010f082d599cf5a99ba</sc_template><short_description>Registers a new student</short_description><show_variable_help_on_load>false</show_variable_help_on_load><start_closed>false</start_closed><state/><sys_class_name>sc_cat_item</sys_class_name><sys_created_by>brad</sys_created_by><sys_created_on>2022-12-18 04:36:15</sys_created_on><sys_id>9c4920122f7f5110fe6c265df699b6f9</sys_id><sys_mod_count>7</sys_mod_count><sys_name>Register student CI</sys_name><sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package><sys_policy/><sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope><sys_update_name>sc_cat_item_9c4920122f7f5110fe6c265df699b6f9</sys_update_name><sys_updated_by>brad</sys_updated_by><sys_updated_on>2022-12-18 20:05:05</sys_updated_on><taxonomy_topic/><template/><template_manager_roles/><type>item</type><use_sc_layout>true</use_sc_layout><vendor/><visible_bundle>true</visible_bundle><visible_guide>true</visible_guide><visible_standalone>true</visible_standalone><workflow/></sc_cat_item><sys_translated_text action="delete_multiple" query="documentkey=9c4920122f7f5110fe6c265df699b6f9"/><fx_price action="delete_multiple" query="id=9c4920122f7f5110fe6c265df699b6f9"/><fx_price action="INSERT_OR_UPDATE"><amount>0</amount><currency display_value="USD">USD</currency><field>price</field><id>9c4920122f7f5110fe6c265df699b6f9</id><parent/><reference_amount>0</reference_amount><reference_currency display_value="USD">USD</reference_currency><sys_created_by>brad</sys_created_by><sys_created_on>2022-12-18 04:36:15</sys_created_on><sys_id>5c4920122f7f5110fe6c265df699b6fa</sys_id><sys_mod_count>0</sys_mod_count><sys_updated_by>brad</sys_updated_by><sys_updated_on>2022-12-18 04:36:15</sys_updated_on><table>sc_cat_item</table><type>calculated</type></fx_price></record_update>]]></payload>
+        <payload_hash>-1086809514</payload_hash>
+        <record_name>Register student CI</record_name>
+        <reverted_from/>
+        <source>0a392f062f7b5110fe6c265df699b6cc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>brad</sys_created_by>
+        <sys_created_on>2022-12-18 20:05:05</sys_created_on>
+        <sys_id>9addb3de2f3b9110fe6c265df699b6b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18526d70b840000001</sys_recorded_at>
+        <sys_updated_by>brad</sys_updated_by>
+        <sys_updated_on>2022-12-18 20:05:05</sys_updated_on>
+        <type>Catalog Item</type>
+        <update_guid>d2ddb3de763b9110492e41d3597f14b2</update_guid>
+        <update_guid_history>d2ddb3de763b9110492e41d3597f14b2:-1086809514,43a928129f7f51103c5f0c3b18cd05ad:739771658,48896412d47f51100f7ba01ee908e5e4:-657437983,ad692412ad7f5110c52725acf82e7838:680599287,8a59a012a87f5110cd79dd96b0cc02f6:-1947008745,5059a012f17f5110231ea5ce6a86e44e:-1239345146,24492012d07f511048c88cacecc3d1fd:581404265</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Register student CI">2addb3de2f3b9110fe6c265df699b6f7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>brad</sys_created_by>
+        <sys_created_on>2022-12-18 20:05:06</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item">sc_cat_item</sys_db_object>
+        <sys_id>3a1bdd6a26334050acd7d5129eae1f39</sys_id>
+        <sys_metadata>9c4920122f7f5110fe6c265df699b6f9</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Register student CI</sys_name>
+        <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+        <sys_scope_delete display_value="">1d34dffae44648f2a5ad11b5aee91979</sys_scope_delete>
+        <sys_update_name>sc_cat_item_9c4920122f7f5110fe6c265df699b6f9</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_9c4920122f7f5110fe6c265df699b6f9">9addb3de2f3b9110fe6c265df699b6b2</sys_update_version>
+        <sys_updated_by>brad</sys_updated_by>
+        <sys_updated_on>2022-12-18 20:05:06</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

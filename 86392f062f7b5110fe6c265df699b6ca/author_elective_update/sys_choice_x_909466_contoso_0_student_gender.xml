@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="gender" table="x_909466_contoso_0_student" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>gender</element>
+            <name>x_909466_contoso_0_student</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-18 00:17:16</sys_created_on>
+            <sys_id>b2fd2b4a2f7b5110fe6c265df699b6c7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>gender</sys_name>
+            <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+            <sys_update_name>sys_choice_x_909466_contoso_0_student_gender</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-18 00:17:16</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gender</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Prefer not to say</label>
+            <language>en</language>
+            <name>x_909466_contoso_0_student</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-18 00:17:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7efd2b4a2f7b5110fe6c265df699b6c6</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-18 00:17:16</sys_updated_on>
+            <value>prefer_not_to_say</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gender</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Female</label>
+            <language>en</language>
+            <name>x_909466_contoso_0_student</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-18 00:17:16</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>bafd2b4a2f7b5110fe6c265df699b6c8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-18 00:17:16</sys_updated_on>
+            <value>female</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gender</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Male</label>
+            <language>en</language>
+            <name>x_909466_contoso_0_student</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-18 00:17:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3afd2b4a2f7b5110fe6c265df699b6c9</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-18 00:17:17</sys_updated_on>
+            <value>male</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gender</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Non-Binary</label>
+            <language>en</language>
+            <name>x_909466_contoso_0_student</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-18 00:17:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b6fd2b4a2f7b5110fe6c265df699b6ca</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-18 00:17:17</sys_updated_on>
+            <value>non_binary</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>gender</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Gender Non-Conforming</label>
+            <language>en</language>
+            <name>x_909466_contoso_0_student</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-18 00:17:17</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>36fd2b4a2f7b5110fe6c265df699b6cb</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-18 00:17:17</sys_updated_on>
+            <value>gender_non_conforming</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>

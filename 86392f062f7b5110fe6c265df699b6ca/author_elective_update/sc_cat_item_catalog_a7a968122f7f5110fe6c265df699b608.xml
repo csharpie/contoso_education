@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Register student CI">9c4920122f7f5110fe6c265df699b6f9</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>brad</sys_created_by>
+        <sys_created_on>2022-12-18 04:38:06</sys_created_on>
+        <sys_id>a7a968122f7f5110fe6c265df699b608</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Register student CI</sys_name>
+        <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_a7a968122f7f5110fe6c265df699b608</sys_update_name>
+        <sys_updated_by>brad</sys_updated_by>
+        <sys_updated_on>2022-12-18 04:38:06</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</application>
+        <file_path/>
+        <instance_id>6df99e42db6937448aea21c405961932</instance_id>
+        <instance_name>dev86298</instance_name>
+        <name>sc_cat_item_catalog_a7a968122f7f5110fe6c265df699b608</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Register student CI">9c4920122f7f5110fe6c265df699b6f9</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>brad</sys_created_by><sys_created_on>2022-12-18 04:38:06</sys_created_on><sys_id>a7a968122f7f5110fe6c265df699b608</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Register student CI</sys_name><sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package><sys_policy/><sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope><sys_update_name>sc_cat_item_catalog_a7a968122f7f5110fe6c265df699b608</sys_update_name><sys_updated_by>brad</sys_updated_by><sys_updated_on>2022-12-18 04:38:06</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>911641681</payload_hash>
+        <record_name>Service Catalog.Register student CI</record_name>
+        <reverted_from/>
+        <source>0a392f062f7b5110fe6c265df699b6cc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>brad</sys_created_by>
+        <sys_created_on>2022-12-18 04:38:06</sys_created_on>
+        <sys_id>23a968122f7f5110fe6c265df699b60b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18523865f490000001</sys_recorded_at>
+        <sys_updated_by>brad</sys_updated_by>
+        <sys_updated_on>2022-12-18 04:38:06</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>a7a968124d7f51104456aa9069c8950a</update_guid>
+        <update_guid_history>a7a968124d7f51104456aa9069c8950a:911641681</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Register student CI">06ddb3de2f3b9110fe6c265df699b6a1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>brad</sys_created_by>
+        <sys_created_on>2022-12-18 20:05:05</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>214d64a4129b4c58ad3d3a3fcbc34310</sys_id>
+        <sys_metadata>a7a968122f7f5110fe6c265df699b608</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Register student CI</sys_name>
+        <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+        <sys_parent display_value="">9c4920122f7f5110fe6c265df699b6f9</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+        <sys_scope_delete display_value="">1d34dffae44648f2a5ad11b5aee91979</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_a7a968122f7f5110fe6c265df699b608</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_a7a968122f7f5110fe6c265df699b608">23a968122f7f5110fe6c265df699b60b</sys_update_version>
+        <sys_updated_by>brad</sys_updated_by>
+        <sys_updated_on>2022-12-18 20:05:05</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

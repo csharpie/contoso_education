@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_policy">
+    <sys_ui_policy action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <conditions table="x_909466_contoso_0_student">graduation_year&lt;1930^EQ<item endquery="false" field="graduation_year" goto="false" newquery="false" operator="&lt;" or="false" value="1930"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </conditions>
+        <description>'Graduation Year' is greater than 1930</description>
+        <global>true</global>
+        <inherit>false</inherit>
+        <isolate_script>true</isolate_script>
+        <model_id/>
+        <model_table/>
+        <on_load>true</on_load>
+        <order>100</order>
+        <reverse_if_false>true</reverse_if_false>
+        <run_scripts>false</run_scripts>
+        <script_false><![CDATA[function onCondition() {}]]></script_false>
+        <script_true><![CDATA[function onCondition() {}]]></script_true>
+        <set_values/>
+        <short_description>'Graduation Year' must be greater than 1929</short_description>
+        <sys_class_name>sys_ui_policy</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-18 00:24:17</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>e59fa38a2f7b5110fe6c265df699b692</sys_id>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_name>'Graduation Year' must be greater than 1929</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+        <sys_update_name>sys_ui_policy_e59fa38a2f7b5110fe6c265df699b692</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-18 00:27:34</sys_updated_on>
+        <table>x_909466_contoso_0_student</table>
+        <ui_type>0</ui_type>
+        <view/>
+    </sys_ui_policy>
+</record_update>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role/>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-17 23:56:29</sys_created_on>
+        <sys_id>de392f062f7b5110fe6c265df699b6d1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>02392f062f7b5110fe6c265df699b6d0</sys_name>
+        <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+        <sys_update_name>sys_embedded_help_role_de392f062f7b5110fe6c265df699b6d1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-17 23:56:29</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>

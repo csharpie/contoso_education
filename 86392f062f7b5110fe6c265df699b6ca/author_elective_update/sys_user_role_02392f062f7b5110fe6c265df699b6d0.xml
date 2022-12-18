@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Default admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_909466_contoso_0.admin</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>admin</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-17 23:56:29</sys_created_on>
+        <sys_id>02392f062f7b5110fe6c265df699b6d0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_909466_contoso_0.admin</sys_name>
+        <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+        <sys_update_name>sys_user_role_02392f062f7b5110fe6c265df699b6d0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-17 23:56:29</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</application>
+        <file_path/>
+        <instance_id>6df99e42db6937448aea21c405961932</instance_id>
+        <instance_name>dev86298</instance_name>
+        <name>sys_user_role_02392f062f7b5110fe6c265df699b6d0</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Default admin role</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_909466_contoso_0.admin</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>admin</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2022-12-17 23:56:29</sys_created_on><sys_id>02392f062f7b5110fe6c265df699b6d0</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_909466_contoso_0.admin</sys_name><sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package><sys_policy/><sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope><sys_update_name>sys_user_role_02392f062f7b5110fe6c265df699b6d0</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2022-12-17 23:56:29</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-1733418822</payload_hash>
+        <record_name>x_909466_contoso_0.admin</record_name>
+        <reverted_from/>
+        <source>0a392f062f7b5110fe6c265df699b6cc</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-12-17 23:56:29</sys_created_on>
+        <sys_id>1a392f062f7b5110fe6c265df699b6d3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18522848a4d0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-12-17 23:56:29</sys_updated_on>
+        <type>Role</type>
+        <update_guid>52392f06be7b5110ae993a4f6d302fd3</update_guid>
+        <update_guid_history>52392f06be7b5110ae993a4f6d302fd3:-1733418822</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_909466_contoso_0.admin">defdb7de2f3b9110fe6c265df699b675</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>brad</sys_created_by>
+        <sys_created_on>2022-12-18 20:05:38</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>76db143e6f7540779ad658dc1a145949</sys_id>
+        <sys_metadata>02392f062f7b5110fe6c265df699b6d0</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_909466_contoso_0.admin</sys_name>
+        <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+        <sys_scope_delete display_value="">1d34dffae44648f2a5ad11b5aee91979</sys_scope_delete>
+        <sys_update_name>sys_user_role_02392f062f7b5110fe6c265df699b6d0</sys_update_name>
+        <sys_update_version display_value="sys_user_role_02392f062f7b5110fe6c265df699b6d0">1a392f062f7b5110fe6c265df699b6d3</sys_update_version>
+        <sys_updated_by>brad</sys_updated_by>
+        <sys_updated_on>2022-12-18 20:05:38</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

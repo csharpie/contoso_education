@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="first_name" label="First Name" language="en" table="x_909466_contoso_0_student">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>first_name</element>
+            <help/>
+            <hint/>
+            <label>First Name</label>
+            <language>en</language>
+            <name>x_909466_contoso_0_student</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2022-12-18 00:17:14</sys_created_on>
+            <sys_id>cafde74a2f7b5110fe6c265df699b6a5</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>First Name</sys_name>
+            <sys_package display_value="Contoso Education" source="x_909466_contoso_0">86392f062f7b5110fe6c265df699b6ca</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Contoso Education">86392f062f7b5110fe6c265df699b6ca</sys_scope>
+            <sys_update_name>sys_documentation_x_909466_contoso_0_student_first_name_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2022-12-18 00:28:37</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
